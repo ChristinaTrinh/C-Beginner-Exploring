@@ -1,0 +1,15 @@
+/Users/christinatrinh/Documents/C#/Bank/Bank/bin/Debug/net5.0/Bank.deps.json
+/Users/christinatrinh/Documents/C#/Bank/Bank/bin/Debug/net5.0/Bank.runtimeconfig.json
+/Users/christinatrinh/Documents/C#/Bank/Bank/bin/Debug/net5.0/Bank.runtimeconfig.dev.json
+/Users/christinatrinh/Documents/C#/Bank/Bank/bin/Debug/net5.0/Bank.dll
+/Users/christinatrinh/Documents/C#/Bank/Bank/bin/Debug/net5.0/ref/Bank.dll
+/Users/christinatrinh/Documents/C#/Bank/Bank/bin/Debug/net5.0/Bank.pdb
+/Users/christinatrinh/Documents/C#/Bank/Bank/obj/Debug/net5.0/Bank.csproj.AssemblyReference.cache
+/Users/christinatrinh/Documents/C#/Bank/Bank/obj/Debug/net5.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christinatrinh/Documents/C#/Bank/Bank/obj/Debug/net5.0/Bank.AssemblyInfoInputs.cache
+/Users/christinatrinh/Documents/C#/Bank/Bank/obj/Debug/net5.0/Bank.AssemblyInfo.cs
+/Users/christinatrinh/Documents/C#/Bank/Bank/obj/Debug/net5.0/Bank.csproj.CoreCompileInputs.cache
+/Users/christinatrinh/Documents/C#/Bank/Bank/obj/Debug/net5.0/Bank.dll
+/Users/christinatrinh/Documents/C#/Bank/Bank/obj/Debug/net5.0/ref/Bank.dll
+/Users/christinatrinh/Documents/C#/Bank/Bank/obj/Debug/net5.0/Bank.pdb
+/Users/christinatrinh/Documents/C#/Bank/Bank/obj/Debug/net5.0/Bank.genruntimeconfig.cache
